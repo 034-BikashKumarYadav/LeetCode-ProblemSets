@@ -2,10 +2,10 @@
 
 This repository contains my solutions to LeetCode problems.
 
-Created with :heart: by [BIKASH KUMAR YADAV)
+Created with :heart: by BIKASH KUMAR YADAV
 
  ## Made by 
- - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
- - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
+ - Bikash: [GitHub][https://github.com/034-BikashKumarYadav) - [LinkedIn][https://www.linkedin.com/in/bikash-kumar-yadav-461237223/)
+
 
  Happy coding! 🚀
