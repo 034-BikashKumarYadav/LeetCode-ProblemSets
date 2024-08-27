@@ -11,3 +11,15 @@ Created with :heart: by **Bikash Kumar Yadav**
 
 Happy coding! 🚀
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
+<!---LeetCode Topics End-->
