@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems.
 
-Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
+Created with :heart: by [BIKASH KUMAR YADAV)
 
  ## Made by 
  - Tut: [GitHub](https://github.com/TutTrue) - [LinkedIn](https://www.linkedin.com/in/mahmoud-hamdy-8b6825245/)
