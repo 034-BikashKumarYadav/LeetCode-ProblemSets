@@ -49,4 +49,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
