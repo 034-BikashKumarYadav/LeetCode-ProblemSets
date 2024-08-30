@@ -49,8 +49,17 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2803-modify-graph-edge-weights](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0009-palindrome-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
