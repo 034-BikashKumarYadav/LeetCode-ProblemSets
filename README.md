@@ -19,6 +19,7 @@ Happy coding! 🚀
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2035-count-sub-islands](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2035-count-sub-islands) |
+| [1325-path-with-maximum-probability](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Happy coding! 🚀
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2803-modify-graph-edge-weights](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [1325-path-with-maximum-probability](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Math
 |  |
 | ------- |
@@ -58,8 +60,10 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [1325-path-with-maximum-probability](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [1325-path-with-maximum-probability](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
