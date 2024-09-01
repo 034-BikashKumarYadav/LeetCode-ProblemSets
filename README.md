@@ -20,6 +20,7 @@ Happy coding! 🚀
 | [2727-number-of-senior-citizens](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2035-count-sub-islands](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2035-count-sub-islands) |
 | [1325-path-with-maximum-probability](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +68,8 @@ Happy coding! 🚀
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [1325-path-with-maximum-probability](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
