@@ -22,6 +22,7 @@ Happy coding! 🚀
 | [1325-path-with-maximum-probability](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [0906-walking-robot-simulation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0906-walking-robot-simulation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 ## Graph
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Happy coding! 🚀
 | [2132-convert-1d-array-into-2d-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [0906-walking-robot-simulation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 ## Binary Search
 |  |
 | ------- |
