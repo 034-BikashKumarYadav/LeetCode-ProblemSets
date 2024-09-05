@@ -23,6 +23,7 @@ Happy coding! 🚀
 | [2132-convert-1d-array-into-2d-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [0906-walking-robot-simulation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [2155-find-missing-observations](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2155-find-missing-observations) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0009-palindrome-number) |
+| [2155-find-missing-observations](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2155-find-missing-observations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Happy coding! 🚀
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [0906-walking-robot-simulation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [2155-find-missing-observations](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2155-find-missing-observations) |
 ## Binary Search
 |  |
 | ------- |
