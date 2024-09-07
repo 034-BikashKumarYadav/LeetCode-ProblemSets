@@ -35,10 +35,12 @@ Happy coding! 🚀
 | ------- |
 | [2035-count-sub-islands](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1484-linked-list-in-binary-tree](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2035-count-sub-islands) |
+| [1484-linked-list-in-binary-tree](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -96,4 +98,13 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [1484-linked-list-in-binary-tree](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
