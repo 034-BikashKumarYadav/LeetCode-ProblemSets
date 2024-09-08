@@ -99,6 +99,7 @@ Happy coding! 🚀
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [1484-linked-list-in-binary-tree](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [0725-split-linked-list-in-parts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Tree
 |  |
 | ------- |
