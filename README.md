@@ -26,11 +26,13 @@ Happy coding! 🚀
 | [2155-find-missing-observations](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2155-find-missing-observations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [2411-spiral-matrix-iv](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Happy coding! 🚀
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0906-walking-robot-simulation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Graph
 |  |
 | ------- |
@@ -122,4 +125,9 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
