@@ -27,6 +27,7 @@ Happy coding! 🚀
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [2411-spiral-matrix-iv](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1435-xor-queries-of-a-subarray](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [1435-xor-queries-of-a-subarray](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Happy coding! 🚀
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1435-xor-queries-of-a-subarray](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Counting
 |  |
 | ------- |
