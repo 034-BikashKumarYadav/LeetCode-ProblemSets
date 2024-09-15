@@ -35,6 +35,7 @@ Happy coding! 🚀
 | [2727-number-of-senior-citizens](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Happy coding! 🚀
 | [0906-walking-robot-simulation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Graph
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Happy coding! 🚀
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [1435-xor-queries-of-a-subarray](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Happy coding! 🚀
 | [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Counting
 |  |
 | ------- |
