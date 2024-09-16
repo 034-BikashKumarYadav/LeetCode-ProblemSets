@@ -29,6 +29,7 @@ Happy coding! 🚀
 | [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Happy coding! 🚀
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Happy coding! 🚀
 | [0009-palindrome-number](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0009-palindrome-number) |
 | [2155-find-missing-observations](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,4 +146,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
