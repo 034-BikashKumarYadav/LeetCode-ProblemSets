@@ -40,6 +40,7 @@ Happy coding! 🚀
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0214-shortest-palindrome](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Happy coding! 🚀
 | [2155-find-missing-observations](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -166,4 +168,16 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0214-shortest-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
