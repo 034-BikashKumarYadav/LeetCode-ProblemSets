@@ -39,6 +39,7 @@ Happy coding! 🚀
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0214-shortest-palindrome](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0214-shortest-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,4 +154,16 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
