@@ -1,71 +1,29 @@
-/*n {
+class Solution {
+private:   
+    int solve(int x, int y, char c){
+        if(c == '+') return x+y;
+        if(c == '-') return x-y;
+        if(c == '*') return x*y;
+        return 0;
+    }
 public:
     vector<int> diffWaysToCompute(string expression) {
-        
-    }y
-};*/
-
-class Solution {
-    public:
-
-        // Function to check whether the character is a number or not
-            bool isNum(char c) {
-                    return c <= '9'  &&  c >= '0';
-                        }
-
-
-                            // DP Table
-                                vector<int> dp[21][21];
-
-                                    vector<int> solve(int i, int j, string &exp) {
-                                            // if number is of single digit
-                                                    if (j == i) return {exp[i] - '0'};
-
-                                                            // if number is of double digit
-                                                                    if (j - i <= 1  &&  isNum(exp[i])  &&  isNum(exp[j]))  return {((exp[i] - '0') * 10) + (exp[j] - '0')};
-                                                                            
-
-                                                                                    // if result is already calculated
-                                                                                            if (dp[i][j].size() > 0) return dp[i][j];
-
-                                                                                                    vector<int> posAns;
-
-
-                                                                                                            // making cuts at every symbol
-                                                                                                                    for (int k = i + 1; k < j; k++) {
-
-                                                                                                                                // skipping iteration if char at current index is a number
-                                                                                                                                            if (isNum(exp[k])) continue;
-
-
-                                                                                                                                                        // solution at left and right side of current symbol
-                                                                                                                                                                    auto leftSolution = solve(i, k - 1, exp);
-                                                                                                                                                                                auto rightSolution = solve(k + 1, j, exp);
-
-                                                                                                                                                                                            // calculating all possible combinations of right and left solutions
-                                                                                                                                                                                                        for (int x: leftSolution) {
-                                                                                                                                                                                                                        for (int y: rightSolution) {
-                                                                                                                                                                                                                                            switch(exp[k]) {
-                                                                                                                                                                                                                                                                    case '*':
-                                                                                                                                                                                                                                                                                                posAns.push_back(x * y);
-                                                                                                                                                                                                                                                                                                                        break;
-                                                                                                                                                                                                                                                                                                                                                case '-':
-                                                                                                                                                                                                                                                                                                                                                                            posAns.push_back(x - y);
-                                                                                                                                                                                                                                                                                                                                                                                                    break;
-                                                                                                                                                                                                                                                                                                                                                                                                                            case '+':
-                                                                                                                                                                                                                                                                                                                                                                                                                                                        posAns.push_back(x + y);
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                break;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        }
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                // returning and storing the answer for future use
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        return dp[i][j] = posAns;
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              vector<int> diffWaysToCompute(string expression) {
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        return solve(0, expression.size() - 1, expression);
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            };
-
+        vector<int> ans;
+        bool isNum=1;
+        for(int i=0; i<expression.size(); i++){
+            if(!isdigit(expression[i])){
+                isNum=0;
+                vector<int> left = diffWaysToCompute(expression.substr(0, i));
+                vector<int> right = diffWaysToCompute(expression.substr(i+1));
+                cout<<left.size()<<" "<<right.size();
+                for(auto x: left){
+                    for(auto y: right){
+                        ans.push_back(solve(x, y, expression[i]));
+                    }
+                }
+            }
+        }
+        if(isNum) ans.push_back(stoi(expression));
+        return ans;
+    }
+};
