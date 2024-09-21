@@ -47,6 +47,7 @@ Happy coding! 🚀
 | [2035-count-sub-islands](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2035-count-sub-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,4 +181,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
