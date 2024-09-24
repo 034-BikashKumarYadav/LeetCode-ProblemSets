@@ -31,6 +31,7 @@ Happy coding! 🚀
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Happy coding! 🚀
 | [0214-shortest-palindrome](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Happy coding! 🚀
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Graph
 |  |
 | ------- |
@@ -191,4 +194,5 @@ Happy coding! 🚀
 | [0386-lexicographical-numbers](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
