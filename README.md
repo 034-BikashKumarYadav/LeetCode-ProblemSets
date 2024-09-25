@@ -32,6 +32,7 @@ Happy coding! 🚀
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Happy coding! 🚀
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Happy coding! 🚀
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Brainteaser
 |  |
 | ------- |
@@ -195,4 +198,5 @@ Happy coding! 🚀
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
