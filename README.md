@@ -33,6 +33,7 @@ Happy coding! 🚀
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -199,4 +201,16 @@ Happy coding! 🚀
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
