@@ -35,6 +35,7 @@ Happy coding! 🚀
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Happy coding! 🚀
 | [0725-split-linked-list-in-parts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
 ## Tree
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Happy coding! 🚀
 | ------- |
 | [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -219,4 +222,8 @@ Happy coding! 🚀
 | ------- |
 | [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
