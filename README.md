@@ -84,6 +84,7 @@ Happy coding! 🚀
 | [0920-uncommon-words-from-two-sentences](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [0432-all-oone-data-structure](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Graph
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Happy coding! 🚀
 | [2411-spiral-matrix-iv](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
+| [0432-all-oone-data-structure](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Tree
 |  |
 | ------- |
@@ -212,6 +214,7 @@ Happy coding! 🚀
 | [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
+| [0432-all-oone-data-structure](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Segment Tree
 |  |
 | ------- |
@@ -226,4 +229,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
