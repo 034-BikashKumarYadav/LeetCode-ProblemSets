@@ -36,6 +36,7 @@ Happy coding! 🚀
 | [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## String
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Happy coding! 🚀
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
 | [0432-all-oone-data-structure](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -233,4 +235,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
