@@ -38,6 +38,7 @@ Happy coding! 🚀
 | [0859-design-circular-deque](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1256-rank-transform-of-an-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Happy coding! 🚀
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [0432-all-oone-data-structure](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1256-rank-transform-of-an-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Graph
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
