@@ -39,6 +39,7 @@ Happy coding! 🚀
 | [1497-design-a-stack-with-increment-operation](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Happy coding! 🚀
 | [0432-all-oone-data-structure](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Graph
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Happy coding! 🚀
 | [1435-xor-queries-of-a-subarray](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Linked List
 |  |
 | ------- |
