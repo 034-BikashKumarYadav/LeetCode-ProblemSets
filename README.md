@@ -53,6 +53,7 @@ Happy coding! 🚀
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -91,6 +92,7 @@ Happy coding! 🚀
 | ------- | ------- |
 | [2035-count-sub-islands](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2035-count-sub-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@ Happy coding! 🚀
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@ Happy coding! 🚀
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Graph
@@ -219,6 +223,7 @@ Happy coding! 🚀
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1009-complement-of-base-10-integer](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
