@@ -58,6 +58,7 @@ Happy coding! 🚀
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ Happy coding! 🚀
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
