@@ -75,6 +75,7 @@ Happy coding! 🚀
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [0567-permutation-in-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/205121034/LeetCode-ProblemSets/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -265,6 +266,7 @@ Happy coding! 🚀
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
