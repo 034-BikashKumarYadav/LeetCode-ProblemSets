@@ -152,6 +152,7 @@ Happy coding! 🚀
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3870-count-commas-in-range](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
